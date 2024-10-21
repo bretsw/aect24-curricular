@@ -2,7 +2,7 @@
 
 ### Terminology in Graduate Computing Course Titles at Minority-Serving Institutions
 
-**Bret Staudt Willet, Jeff Carpenter, & Hunhui Na** | Florida State University
+**Bret Staudt Willet, Annie Wofford, Lara Perez-Felkner, & Chantra Nhien** | Florida State University
 
 Presentation at the AECT 2024 Convention
 
